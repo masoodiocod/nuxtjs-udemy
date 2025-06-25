@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "Range Rover Sport",
+        "price": "84,777",
+        "url": "https://imgd.aeplcdn.com/664x374/n/cw/ec/122451/range-rover-sport-exterior-right-front-three-quarter-44.avif?isig=0&q=80",
+        "seats": 5,
+        "miles": "90,000",
+        "features": [
+            "No Accidents",
+            "low KM",
+            "Leather Seats",
+            "Navigation System",
+            "vehicle Detailed",
+            "Backup Camera",
+            "Remote Start",
+            "Blind Spot Monitor"
+        ],
+        "description": "The Range Rover Sport is a luxury SUV that combines performance with elegance. It offers a powerful engine, advanced technology, and a spacious interior, making it perfect for both city driving and off-road adventures."
+    },
+    {
+        "id": 2,
+        "name": "Tesla Model S",
+        "price": "99,990",
+        "url": "https://tesla-cdn.thron.com/delivery/public/image/tesla/6e2b8c3e-2c2e-4e6e-8b1e-6b7a3e3d5270/bvlatuR/std/2880x1800/_25-Hero-D",
+        "seats": 5,
+        "miles": "30,000",
+        "features": [
+            "Autopilot",
+            "Electric",
+            "Panoramic Roof",
+            "Heated Seats",
+            "Navigation System",
+            "Backup Camera",
+            "Premium Sound",
+            "Wireless Charging"
+        ],
+        "description": "The Tesla Model S is a high-performance electric sedan offering cutting-edge technology, impressive acceleration, and a long driving range. Its minimalist interior and advanced features make it a leader in the EV market."
+    },
+    {
+        "id": 3,
+        "name": "BMW X5",
+        "price": "72,500",
+        "url": "https://www.bmwusa.com/content/dam/bmwusa/X5/2022/Overview/BMW-MY22-G05-X5-Overview-Stage1-Desktop.jpg",
+        "seats": 5,
+        "miles": "60,000",
+        "features": [
+            "All-Wheel Drive",
+            "Leather Seats",
+            "Sunroof",
+            "Navigation System",
+            "Heated Steering Wheel",
+            "Blind Spot Detection",
+            "Parking Sensors",
+            "Apple CarPlay"
+        ],
+        "description": "The BMW X5 is a luxury midsize SUV that blends sporty handling with a comfortable ride. It features a refined interior, advanced safety features, and powerful engine options."
+    },
+    {
+        "id": 4,
+        "name": "Audi Q7",
+        "price": "65,300",
+        "url": "https://www.audi.ca/content/dam/nemo/models/q7/q7/my-2022/1920x1080-desktop/1920x1080_AQ7_191001.jpg",
+        "seats": 7,
+        "miles": "75,000",
+        "features": [
+            "Third Row Seating",
+            "Quattro AWD",
+            "Virtual Cockpit",
+            "Leather Upholstery",
+            "Adaptive Cruise Control",
+            "360 Camera",
+            "Heated Seats",
+            "Bluetooth"
+        ],
+        "description": "The Audi Q7 is a spacious and versatile SUV with three rows of seating. It offers a smooth ride, advanced infotainment, and a luxurious cabin, making it ideal for families."
+    },
+    {
+        "id": 5,
+        "name": "Mercedes-Benz C-Class",
+        "price": "54,200",
+        "url": "https://www.mercedes-benz.com/en/vehicles/passenger-cars/c-class/_jcr_content/root/slider/sliderchilditems/slideritem/image/MQ6-12-image-20220215111032/01-mercedes-benz-vehicles-c-class-saloon-w206-2021-3400x1440.jpeg",
+        "seats": 5,
+        "miles": "40,000",
+        "features": [
+            "Turbocharged Engine",
+            "Ambient Lighting",
+            "Leather Interior",
+            "Navigation",
+            "Blind Spot Assist",
+            "Keyless Entry",
+            "Backup Camera",
+            "Rain Sensing Wipers"
+        ],
+        "description": "The Mercedes-Benz C-Class is a compact luxury sedan known for its elegant design, smooth ride, and advanced technology. It offers a premium driving experience with a focus on comfort and safety."
+    },
+    {
+        "id": 6,
+        "name": "Toyota Camry",
+        "price": "32,800",
+        "url": "https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2022/camry/1J9/1.png",
+        "seats": 5,
+        "miles": "25,000",
+        "features": [
+            "Fuel Efficient",
+            "Lane Departure Alert",
+            "Adaptive Cruise",
+            "Touchscreen Display",
+            "Bluetooth",
+            "Backup Camera",
+            "Keyless Start",
+            "Alloy Wheels"
+        ],
+        "description": "The Toyota Camry is a reliable midsize sedan offering excellent fuel economy, a comfortable interior, and a reputation for long-term durability. It's a top choice for daily commuting."
+    }
+]
